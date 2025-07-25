@@ -31,4 +31,4 @@ This project explores a real-world regression problem where the goal is to predi
 
 ---
 
-✅ Created by Athanasios Zalachoris – [GitHub Profile][(https://github.com/YOUR_USERNAME)](https://github.com/ThanasisZalachoris)
+✅ Created by Athanasios Zalachoris – [GitHub Profile](https://github.com/ThanasisZalachoris)
